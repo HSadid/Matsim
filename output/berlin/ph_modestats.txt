@@ -1,0 +1,12 @@
+Iteration	pt_travel	pt_wait	ride_travel	ride_wait	stageActivity_travel	stageActivity_wait	taxi_travel	taxi_wait	walk_travel	walk_wait
+0	1	0	2	0	0	0	4291	314	0	0
+1	1	0	2	0	0	0	4622	345	7904	0
+2	1	0	2	0	0	0	4609	408	10016	0
+3	1	0	2	0	0	0	4598	464	11043	0
+4	1	0	2	0	0	0	4600	504	11672	0
+5	1	0	2	0	0	0	4602	554	12218	0
+6	1	0	2	0	0	0	4632	602	11829	0
+7	1	0	2	0	0	0	4668	639	11679	0
+8	1	0	2	0	0	0	4697	665	11473	0
+9	1	0	2	0	0	0	4733	710	11096	0
+10	1	0	2	0	0	0	4783	748	11054	0
