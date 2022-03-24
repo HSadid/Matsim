@@ -1,4 +1,4 @@
-# Matsim: Taxi modelling step by step guide 
+# Matsim: Taxi modelling
 Input data:
 1) Network file 
 2) Population file 
